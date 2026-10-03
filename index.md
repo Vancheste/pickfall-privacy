@@ -1,11 +1,11 @@
 # Pickfall — Privacy Policy
 
-Last updated: 3 October 2026 (game version 0.28.0)
+Last updated: 3 October 2026 (game version 0.29.0)
 
 ## In short
 
-Pickfall does not collect, send or share any personal data. It uses the internet for one
-thing only: to learn today's date.
+Pickfall does not collect, send or share any personal data. It uses the internet for two
+things only: to learn today's date, and to download the developer's letters to the players.
 
 ## What the game stores
 
@@ -33,12 +33,22 @@ answer.
 - Without a connection the game plays as usual; only the reward for coming in and new daily
   quests wait until there is one.
 
+The game's mailbox shows letters from the developer: news, and sometimes a gift. To show them,
+the game downloads one file, the same for every player, from the game's own page
+(vancheste.github.io, hosted by GitHub).
+
+- The request carries no data: nothing about you, your device or how you play. The game does
+  not tell anyone which letters you opened or which gifts you took; that is kept on your
+  device.
+- As with any internet request, the server that answers (GitHub) sees your IP address. What
+  it does with it is governed by GitHub's own privacy policy.
+
 ## What the game does not do
 
 - It has no accounts and no sign-in.
 - It shows no ads and has no analytics or tracking.
 - It asks for no access to your contacts, location, camera, microphone or files.
-- It uses two permissions: internet, for the date as described above, and vibration, for the
+- It uses two permissions: internet, for the date and the letters as described above, and vibration, for the
   buzz on heavy hits (it can be turned off in the settings).
 
 ## Children
@@ -59,12 +69,12 @@ Questions about this policy: 8vayns@gmail.com
 
 # Pickfall — Политика конфиденциальности
 
-Обновлено: 3 октября 2026 г. (версия игры 0.28.0)
+Обновлено: 3 октября 2026 г. (версия игры 0.29.0)
 
 ## Коротко
 
 Pickfall не собирает, не отправляет и никому не передаёт личные данные. Интернет нужен игре
-только для одного: узнать сегодняшнюю дату.
+только для двух вещей: узнать сегодняшнюю дату и скачать письма разработчика игрокам.
 
 ## Что игра хранит
 
@@ -91,12 +101,21 @@ microsoft.com) и читает дату из ответа.
 - Из ответа игра читает только дату и время.
 - Без сети игра работает как обычно; ждут только награда за вход и новые ежедневные задания.
 
+В почте игры показываются письма разработчика: новости и иногда подарок. Чтобы их показать,
+игра скачивает один файл, одинаковый для всех игроков, со страницы игры
+(vancheste.github.io, размещена на GitHub).
+
+- В запросе нет данных: ничего о вас, вашем устройстве или о том, как вы играете. Игра никому
+  не сообщает, какие письма вы открыли и какие подарки забрали: это хранится на устройстве.
+- Как при любом обращении в интернет, сервер, который отвечает (GitHub), видит ваш IP-адрес.
+  Что он с ним делает, определяет политика конфиденциальности GitHub.
+
 ## Чего игра не делает
 
 - В ней нет аккаунтов и входа.
 - В ней нет рекламы, аналитики и отслеживания.
 - Она не просит доступа к контактам, местоположению, камере, микрофону или файлам.
-- Она использует два разрешения: интернет — для даты, как описано выше, и вибрацию — при
+- Она использует два разрешения: интернет — для даты и писем, как описано выше, и вибрацию — при
   тяжёлых ударах (её можно выключить в настройках).
 
 ## Дети
