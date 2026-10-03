@@ -1,6 +1,6 @@
 # Pickfall — Privacy Policy
 
-Last updated: 3 October 2026 (game version 0.18.0)
+Last updated: 3 October 2026 (game version 0.28.0)
 
 ## In short
 
@@ -23,7 +23,7 @@ Uninstalling the game or clearing its data removes all of it.
 
 Rewards that are given once a day (the reward for coming in and the daily quests) go by the
 real date, not by the date set on the device. To learn it, the game sends an empty request to
-a public web server (google.com, cloudflare.com or microsoft.com) and reads the date from the
+a public web server (rustore.ru, vk.com, cloudflare.com or microsoft.com) and reads the date from the
 answer.
 
 - The request carries no data: nothing about you, your device or how you play.
@@ -47,8 +47,8 @@ The game is suitable for all ages and collects nothing from anyone, children inc
 
 ## Changes
 
-If a later version adds online features (for example Google Play Games records or cloud
-saves), this policy will be updated before that version is released, and it will say what is
+If a later version adds online features (for example accounts, records or cloud saves),
+this policy will be updated before that version is released, and it will say what is
 sent and to whom.
 
 ## Contact
@@ -59,7 +59,7 @@ Questions about this policy: 8vayns@gmail.com
 
 # Pickfall — Политика конфиденциальности
 
-Обновлено: 3 октября 2026 г. (версия игры 0.18.0)
+Обновлено: 3 октября 2026 г. (версия игры 0.28.0)
 
 ## Коротко
 
@@ -82,8 +82,8 @@ Pickfall не собирает, не отправляет и никому не �
 
 Награды, которые выдаются раз в день (награда за вход и ежедневные задания), считаются по
 настоящей дате, а не по той, что выставлена на устройстве. Чтобы её узнать, игра отправляет
-пустой запрос на общедоступный веб-сервер (google.com, cloudflare.com или microsoft.com) и
-читает дату из ответа.
+пустой запрос на общедоступный веб-сервер (rustore.ru, vk.com, cloudflare.com или
+microsoft.com) и читает дату из ответа.
 
 - В запросе нет данных: ничего о вас, вашем устройстве или о том, как вы играете.
 - Как при любом обращении в интернет, сервер, который отвечает, видит ваш IP-адрес. Что он с
@@ -105,8 +105,8 @@ Pickfall не собирает, не отправляет и никому не �
 
 ## Изменения
 
-Если в следующих версиях появятся онлайн-функции (например, рекорды или облачные
-сохранения Google Play Games), политика будет обновлена до выхода такой версии, и в ней будет
+Если в следующих версиях появятся онлайн-функции (например, аккаунты, рекорды или
+облачные сохранения), политика будет обновлена до выхода такой версии, и в ней будет
 сказано, что и кому отправляется.
 
 ## Связь
